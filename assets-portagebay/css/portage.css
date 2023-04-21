@@ -1,0 +1,246 @@
+@charset "UTF-8";
+
+/* CSS Document */
+/*BEGIN UPDATED MASTHEAD NAV STYLES*/
+.masthead {
+    width: 794px;
+    border: 3px solid #ffffff;
+    background-color: #b3b3b3;
+}
+
+.masthead img {
+    width: 100% height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.mainNavWrap {
+    width: 754px;
+    padding: 12px 20px;
+    background-color: #b3b3b3;
+    border-bottom: 3px solid #ffffff;
+}
+
+.titleNav {
+    width: 100%;
+    background-color: #b3b3b3;
+}
+
+.titleNav h1 {
+    color: #222222;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: bold;
+    letter-spacing: 1px;
+    line-height: 32px;
+    margin-bottom: 12px;
+    padding: 0px;
+}
+
+.titleNav h1 {
+    color: #666666;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: bold;
+    letter-spacing: 1px;
+    line-height: 1.5;
+}
+
+.titleNav h1 a {
+    color: #222222;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+
+.titleNav h1 a:hover,
+.titleNav h1 a:hover span {
+    color: #bf0000;
+}
+
+.companyNameLight,
+.companyNameLight a {
+    color: #666666;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: 1px;
+    line-height: 32px;
+    margin-bottom: 12px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+.companyNameLight a:hover {
+    color: #bf0000;
+}
+
+.navMenu a {
+    color: #222222;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    letter-spacing: 1px;
+    text-align: left;
+}
+
+.navMenu a:hover {
+    color: #bf0000;
+}
+
+/*END UPDATED MASTHEAD NAV STYLES*/
+.portTitleCopy {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.portTitle {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.portText {
+
+    font-family: Tahoma, Verdana, Arial;
+    font-size: 11px;
+    color: #666666;
+}
+
+.portTextRed {
+    font-family: Tahoma, Verdana, Arial;
+    font-size: 12px;
+    color: #BF0000;
+    font-weight: bold;
+
+}
+
+.portTextTitle {
+    font-family: Tahoma, Verdana, Arial;
+    font-size: 10px;
+    color: #BF0000;
+    font-weight: bold;
+
+}
+
+.portTextSubhead {
+
+    font-family: Tahoma, Verdana, Arial;
+    font-size: 10px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.portTitleWhite {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+.portTextSubheadGray {
+
+
+    font-family: Tahoma, Verdana, Arial;
+    font-size: 10px;
+    color: #333333;
+    font-weight: bold;
+}
+
+.homeWhite10bold {
+    font-family: Tahoma, Verdana, Arial;
+    font-size: 10px;
+    color: #FFFFFF;
+    font-weight: bold;
+    line-height: 23px;
+
+}
+
+.homeLgGray10boldCopy {
+
+
+    font-family: Tahoma, Verdana, Arial;
+    font-size: 10px;
+    color: #B3B3B3;
+    font-weight: bold;
+}
+
+.homeWhite10 {
+
+
+    font-family: Tahoma, Verdana, Arial;
+    font-size: 11px;
+    color: #FFFFFF;
+}
+
+.homeWhite10Copy {
+
+
+
+    font-family: Tahoma, Verdana, Arial;
+    font-size: 11px;
+    color: #FFFFFF;
+}
+
+.homeRed11 {
+    font-family: Tahoma, Verdana, Arial;
+    font-size: 11px;
+    color: #BE0000;
+    font-weight: bold;
+
+}
+
+.portSummaryTitle {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.portNavType {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    color: #999999;
+}
+
+.portTitleBlack {
+
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #7E7E7E;
+}
+
+.portTextBlack {
+
+
+    font-family: Tahoma, Verdana, Arial;
+    font-size: 11px;
+    color: #666666;
+}
+
+.contactFormField {
+    font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    background-color: #A4E9FF;
+}
+
+.contactText {
+
+
+    font-family: Tahoma, Verdana, Arial;
+    font-size: 10px;
+    color: #666666;
+}
